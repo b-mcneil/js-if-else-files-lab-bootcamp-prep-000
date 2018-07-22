@@ -1,6 +1,6 @@
 var name = "Susan"
-var height = "70"
-height.innerHTML = parseInt(height.innerHTML)
+var height = 70
+
 
   
 // Don't worry about this
